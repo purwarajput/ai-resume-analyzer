@@ -1,11 +1,9 @@
 import React from 'react'
 
-const Ats = () => {
+const ATS = () => {
   return (
-    <div>
-      
-    </div>
+    <div>ATS</div>
   )
 }
 
-export default Ats
+export default ATS
